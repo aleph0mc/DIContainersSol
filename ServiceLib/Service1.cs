@@ -10,7 +10,7 @@ namespace ServiceLib
     {
         public void Service1Method()
         {
-            // Implement code
+            Console.WriteLine("Service1Method called");
         }
     }
 }

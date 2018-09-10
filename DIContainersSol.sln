@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLib", "ServiceLib\Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapContainer", "StructureMapContainer\StructureMapContainer.csproj", "{20405656-9B7E-429E-A31F-0050765338EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsDI_Container", "MsDI_Container\MsDI_Container.csproj", "{5C1AD83C-A848-468C-A33C-2C1367535B4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{20405656-9B7E-429E-A31F-0050765338EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20405656-9B7E-429E-A31F-0050765338EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20405656-9B7E-429E-A31F-0050765338EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1AD83C-A848-468C-A33C-2C1367535B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1AD83C-A848-468C-A33C-2C1367535B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1AD83C-A848-468C-A33C-2C1367535B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1AD83C-A848-468C-A33C-2C1367535B4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

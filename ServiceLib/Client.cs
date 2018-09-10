@@ -2,7 +2,7 @@
 
 namespace ServiceLib
 {
-    public class Client
+    public class Client : IClient
     {
         private readonly IService1 _service1;
         private readonly IService2 _service2;

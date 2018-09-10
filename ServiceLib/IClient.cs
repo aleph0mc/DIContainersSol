@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ServiceLib
 {
-    public class Service2 : IService2
+    public interface IClient
     {
-        public void Service2Method()
-        {
-            Console.WriteLine("Service2Method called");
-        }
+        void InitiateServiceMethods();
     }
 }

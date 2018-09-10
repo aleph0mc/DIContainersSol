@@ -58,6 +58,10 @@
       <Project>{1df10154-3dc6-470f-91c6-fd95423c5ff4}</Project>
       <Name>CastleWindsorContainer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MsDI_Container\MsDI_Container.csproj">
+      <Project>{5c1ad83c-a848-468c-a33c-2c1367535b4a}</Project>
+      <Name>MsDI_Container</Name>
+    </ProjectReference>
     <ProjectReference Include="..\StructureMapContainer\StructureMapContainer.csproj">
       <Project>{20405656-9b7e-429e-a31f-0050765338ea}</Project>
       <Name>StructureMapContainer</Name>
